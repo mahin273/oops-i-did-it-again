@@ -152,7 +152,25 @@ int? vLength = value?.Length;
 Console.WriteLine(vLength);
 
 
+//==================Exception Handling=================
+try
+{
+    //int v = 10 / 0;
+    int v = 10 / 1;
+}
+catch(DivideByZeroException ex)
+{
+    Console.WriteLine(ex.Message);
+}
+catch(Exception ex)
+{
+    Console.WriteLine($"Unexpected: {ex:Message}");
+}
+finally
+{
+    Console.WriteLine("This always runs");
+}
 
 
 
-
+CarDemo.Run();
