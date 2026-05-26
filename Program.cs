@@ -174,3 +174,6 @@ finally
 
 
 CarDemo.Run();
+
+BankDemo.Run();
+CounterDemo.Run();
