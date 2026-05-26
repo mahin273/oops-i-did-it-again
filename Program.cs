@@ -177,3 +177,6 @@ CarDemo.Run();
 
 BankDemo.Run();
 CounterDemo.Run();
+EmployeeDemo.Run();
+UserDemo.Run();
+ProductDemo.Run();
