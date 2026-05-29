@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using OopsExamples;
+﻿using OopsExamples;
+using System.Collections.Generic;
 //==============Data Types and Variables==================
 
 
@@ -183,3 +183,6 @@ UserDemo.Run();
 ProductDemo.Run();
 AnimalDemo.Run();
 PersonDemo.Run();
+CompileTimePolymorphism.Run();
+RuntimePolymorphism.Run();
+AbstractClass.Run();
