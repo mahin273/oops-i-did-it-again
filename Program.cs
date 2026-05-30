@@ -186,3 +186,4 @@ PersonDemo.Run();
 CompileTimePolymorphism.Run();
 RuntimePolymorphism.Run();
 AbstractClass.Run();
+DatabaseRepositoryDemo.Run();
