@@ -188,3 +188,4 @@ RuntimePolymorphism.Run();
 AbstractClass.Run();
 DatabaseRepositoryDemo.Run();
 IPaymentGatewayDemo.Run();
+StringExtensionsDemo.Run();
